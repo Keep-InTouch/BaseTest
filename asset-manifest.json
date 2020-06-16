@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Talk/static/css/main.b13ef62b.chunk.css",
-    "main.js": "/Talk/static/js/main.6096ab20.chunk.js",
-    "main.js.map": "/Talk/static/js/main.6096ab20.chunk.js.map",
+    "main.js": "/Talk/static/js/main.16270768.chunk.js",
+    "main.js.map": "/Talk/static/js/main.16270768.chunk.js.map",
     "runtime-main.js": "/Talk/static/js/runtime-main.bd4ff79b.js",
     "runtime-main.js.map": "/Talk/static/js/runtime-main.bd4ff79b.js.map",
     "static/js/2.86567678.chunk.js": "/Talk/static/js/2.86567678.chunk.js",
     "static/js/2.86567678.chunk.js.map": "/Talk/static/js/2.86567678.chunk.js.map",
     "index.html": "/Talk/index.html",
-    "precache-manifest.ce047c09c60f30770f3bb71eb2b89bda.js": "/Talk/precache-manifest.ce047c09c60f30770f3bb71eb2b89bda.js",
+    "precache-manifest.7336233714d0a9b51b484df516c0e2fc.js": "/Talk/precache-manifest.7336233714d0a9b51b484df516c0e2fc.js",
     "service-worker.js": "/Talk/service-worker.js",
     "static/css/main.b13ef62b.chunk.css.map": "/Talk/static/css/main.b13ef62b.chunk.css.map",
     "static/js/2.86567678.chunk.js.LICENSE.txt": "/Talk/static/js/2.86567678.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bd4ff79b.js",
     "static/js/2.86567678.chunk.js",
     "static/css/main.b13ef62b.chunk.css",
-    "static/js/main.6096ab20.chunk.js"
+    "static/js/main.16270768.chunk.js"
   ]
 }
