@@ -43,4 +43,4 @@ for image in images:
 			count = 0
 		# print(count)
 		count += 1
-print('Success')
+print('Code Done')
